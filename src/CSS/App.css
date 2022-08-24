@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 1500px;
+    font: normal normal normal 15px Helvetica Neue;
+}
+
+.conteiner{
+    display: flex;
+    flex-direction: column;
+    
+}

@@ -1,0 +1,65 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    color: #888888
+}
+
+.button {
+    top: 670px;
+    left: 870px;
+    width: 340px;
+    height: 39px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+    color: #888888;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.inputText {
+    top: 441px;
+    left: 870px;
+    width: 340px;
+    height: 30px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+    margin-bottom: 20px;
+}
+
+.inputCheckBox {
+    top: 633px;
+    left: 984px;
+    width: 14px;
+    height: 14px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+    border-radius: 50%;
+    margin-right: 50px;
+}
+
+.Invalid{
+    top: 441px;
+    left: 870px;
+    width: 340px;
+    height: 30px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid red;
+    opacity: 1;
+    margin-bottom: 20px;
+
+}
+
+.Valid{
+    top: 441px;
+    left: 870px;
+    width: 340px;
+    height: 30px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid green;
+    opacity: 1;
+    margin-bottom: 20px;
+}

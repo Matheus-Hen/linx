@@ -1,0 +1,16 @@
+.boxTopics {
+    background-color: #FFFFFF;
+    border: 1px #707070 solid;
+    width: 160px;
+    height: 40px;
+    color: #888888;
+    display: flex;
+    align-items: center;
+    opacity: 1;
+}
+
+.text {
+    width: 160px;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    text-align: center;
+}

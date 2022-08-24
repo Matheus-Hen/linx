@@ -1,0 +1,18 @@
+.Article {
+    height: 550px;
+    width: 420px;
+    color: #888888;
+    text-align: start;
+}
+
+.Paragraf {
+    top: 473px;
+    left: 290px;
+    width: 520px;
+    height: 220px;
+    text-align: left;
+    font: normal normal normal 12px/18px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}

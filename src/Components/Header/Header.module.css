@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    /* background-color: #707070; */
+    color: #fff;
+    background: #707070 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+    top: 0px;
+    left: 0px;
+}
+
+
+.textHeaders{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
